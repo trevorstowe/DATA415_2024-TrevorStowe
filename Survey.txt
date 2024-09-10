@@ -1,0 +1,15 @@
+Dave Age 31
+Dave no pets
+Olaf Smoker Yes
+Carol Cats 2
+Alisa, Dog, 1
+Olaf Years 76
+Carol Age 44
+Carol Smoker No
+Dave Siblings 3
+Carol Sibling 1
+Dave Smokes False
+Alisa Smoke True
+Olaf Siblings 6
+
+
